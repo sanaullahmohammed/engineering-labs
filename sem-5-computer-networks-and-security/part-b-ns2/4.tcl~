@@ -1,6 +1,3 @@
-# Author: G. Srinivasachar
-# Date: 3/6/16
-#
 # File 4.tcl
 # Wireless LAN simulation
 
@@ -47,6 +44,7 @@ $node(1) set Z_ 0
 $node(2) set X_ 400
 $node(2) set Y_ 400
 $node(2) set Z_ 0
+
 # Create connections
 set tcp0 [$ns create-connection TCP $node(0) TCPSink $node(1) 1]
 set tcp1 [$ns create-connection TCP $node(1) TCPSink $node(2) 2]

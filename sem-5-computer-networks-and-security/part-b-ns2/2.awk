@@ -1,8 +1,6 @@
-# Author: G. Srinivasachar
-# Date: 3/6/16
-#
 # File 2.awk
 # Count dropped packets due to congestion
+
 BEGIN {
 count=0;
 }

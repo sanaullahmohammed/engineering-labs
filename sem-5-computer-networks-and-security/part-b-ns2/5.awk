@@ -1,5 +1,6 @@
 # File 5.awk
 # Wireless LAN link performance
+
 BEGIN {
 	packets_sent = 0;
 	packets_acks = 0;

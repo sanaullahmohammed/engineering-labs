@@ -1,6 +1,3 @@
-# Author: G. Srinivasachar
-# Date: 3/6/16
-#
 # File 4.tcl
 # Wireless LAN simulation
 
