@@ -1,0 +1,11 @@
+weather,parents,money,decision
+sunny,Yes,rich,cinema
+sunny,No,rich,tennis
+windy,Yes,rich,cinema
+rainy,Yes,poor,cinema
+rainy,No,rich,stayin
+rainy,Yes,poor,cinema
+windy,No,poor,cinema
+windy,No,rich,shopping
+windy,Yes,rich,cinema
+sunny,No,rich,tennis
